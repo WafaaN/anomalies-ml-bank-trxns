@@ -15,7 +15,7 @@ Detect anomalies in financial transactions dataset using unsupervised machine le
 2. **Data Cleaning & Profiling**  Handle missing values, duplicates, incorrect types, and detect outliers.
 3. **Exploratory Data Analysis (EDA)**  Visualize distributions, analyze categorical counts, examine correlations, and detect anomalies.
 4. **Feature Engineering & Preprocessing**  Encode categorical variables and scale numeric features.  
-5. **Model Selection & Training**  Train unsupervised anomaly detection models (Isolation Forest, One-Class SVM, DBSCAN, and LOFgit init).
+5. **Model Selection & Training**  Train unsupervised anomaly detection models (Isolation Forest, One-Class SVM, DBSCAN, and LOF).
 6. **Model Evaluation** Assess performance using number of anomalies detected, visualizations anomaly points.
 7. **Conclusion & Future Work**  suggest improvements, retraining strategies, and analysis of discrepancies between model results.
 

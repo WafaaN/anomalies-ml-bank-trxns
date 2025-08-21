@@ -1,3 +1,2 @@
-# Git ignore rules 
-/data/
-/images/
+/output/
+/data/bank_transactions_data.csv
